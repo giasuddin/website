@@ -35,9 +35,9 @@ weight = 5
 +++
 
 # Biography
-I am a senior PhD candidate at the School of Computer Science of McGill University. My research interests include empirical software engineering, with a focus on big data. Specifically, I leverage Natural Language Processing and Machine Learning techniques on the vast amount data available in online software repositories. 
+I am a senior PhD candidate at the School of Computer Science of [McGill University](https://www.mcgill.ca/). My research interests include empirical software engineering, with a focus on big data. Specifically, I leverage Natural Language Processing and Machine Learning techniques on the vast amount data available in online software repositories. 
 
 Besides my PhD, I have been working full-time in the Industry for more than six years. I am currently a 
-Data scientist and software engineer at the [Apption Software](http://www.apption.com). Prior to Apption, I worked at the IBM Canada, both as a researcher and as a software engineer. At IBM, I was part of the [IBM Watson Analytics](https://www.ibm.com/watson-analytics), where I developed techniques to improve the natural language query understanding process in the Watson Analytics engine. Before IBM, I also worked for more than two years at [Recognia, Inc.](https://www.recognia.com/).
+Data scientist and software engineer at the [Apption Software](http://www.apption.com). Prior to Apption, I worked at the [IBM Canada](https://www.ibm.com/ca-en/), both as a researcher and as a software engineer. At IBM, I was part of the [IBM Watson Analytics](https://www.ibm.com/watson-analytics), where I developed techniques to improve the natural language query understanding process in the Watson Analytics engine. Before IBM, I also worked for more than two years at [Recognia, Inc.](https://www.recognia.com/)
 
 As part of my PhD research, I have the created Opiner, an online opinion search and summarization engine for APIs. Check out Opiner at: http://opiner.polymtl.ca

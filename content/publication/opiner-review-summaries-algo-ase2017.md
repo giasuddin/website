@@ -1,10 +1,10 @@
 +++
 title = "Automatic Summarization of API Reviews"
 date = "2017-10-30"
-tags = ["ASE", "Big-Data"]
+tags = ["ASE", "Big Data", "API"]
 tags_weight = 22
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Gias Uddin", "Foutse Khomh"]
+authors = ["**Gias Uddin**", "Foutse Khomh"]
 
 # Publication type.
 # Legend:
@@ -39,16 +39,16 @@ selected = false
 
 
 # Links (optional).
-url_pdf = "http://swat.polymtl.ca/~foutsekh/docs/ase17-Summarization.pdf"
+url_pdf = "/papers/ase17-opiner-algo-review-summarization.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
-url_project = ""
+url_project = "http://opiner.polymtl.ca"
 url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "Site", url = "http://opiner.polymtl.ca"}]
+url_custom = [{name = "Site", url = "https://dl.acm.org/citation.cfm?id=3155586"}]
 
 # Does the content use math formatting?
 math = true
