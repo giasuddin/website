@@ -1,6 +1,6 @@
 baseurl = "https://giasuddin.github.io/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Gias Uddin"
-copyright = "&copy; 2017 Gias Uddin"
+copyright = "&copy; 2018 Gias Uddin"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -39,12 +39,12 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Gias Uddin"
-  role = "Data Scientist and Senior PhD Candidate"
+  name = "Gias Uddin, PhD"
+  role = "Data Scientist"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url="http://www.mcgill.ca/"}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "McGill University", url = "http://www.mcgill.ca/"}, { name = "Apption Software", url = "http://www.apption.com/"} ]
+  organizations = [ { name = "Apption Software", url = "http://www.apption.com/"}, { name = "McGill University", url = "http://www.mcgill.ca/"}]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "profile_with_family.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
